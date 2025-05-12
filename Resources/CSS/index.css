@@ -1,3 +1,31 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 h1 {
-    color: blue;
+    color: black;
+}
+
+.Nav-bar{
+    background-color: rgba(39, 32, 177, 0.2);
+}
+
+.Nav-bar-List{
+    padding: 0 auto;
+    display: inline-block;
+    margin: 10px;
+}
+
+.Nav-bar-List li{
+    display: inline-block;
+    padding: 10px;
+    margin: 0 20px;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.Title-name{
+    display: inline-block;
 }
